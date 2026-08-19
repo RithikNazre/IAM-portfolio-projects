@@ -20,3 +20,11 @@ A complete Joiner-Mover-Leaver access lifecycle simulation:
 
 **About me:** IAM Engineer with hands-on experience across Okta,
 SailPoint, CyberArk, and Entra ID. [LinkedIn--(https://www.linkedin.com/in/rithiknazre10/)]
+
+
+
+
+
+## 2. SAML SSO & Automated User Provisioning (Okta → Salesforce) Real SAML 2.0 federation + REST-based provisioning between Okta and Salesforce — IdP/SP trust setup, Connected App OAuth provisioning, import reconciliation, attribute mapping, and independent validation via SAML Tracer. 
+
+📄 [View the full write-up (PDF)](./SSO_Provisioning_Okta_Salesforce.pdf)
