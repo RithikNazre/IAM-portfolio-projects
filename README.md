@@ -28,3 +28,10 @@ SailPoint, CyberArk, and Entra ID. [LinkedIn--(https://www.linkedin.com/in/rithi
 ## 2. SAML SSO & Automated User Provisioning (Okta → Salesforce) Real SAML 2.0 federation + REST-based provisioning between Okta and Salesforce — IdP/SP trust setup, Connected App OAuth provisioning, import reconciliation, attribute mapping, and independent validation via SAML Tracer. 
 
 📄 [View the full write-up (PDF)](./SSO_Provisioning_Okta_Salesforce.pdf)
+
+
+
+
+#trust## 3. Zero trust adaptive mfa in Okta
+-
+📄 [View the full write-up (PDF)](./Zero_Trust_Adaptive_MFA_Okta.pdf)
